@@ -1,0 +1,20 @@
+saya akan membuat toko online yang terdiri dari 4 bagian yaitu hider, bener, produk, footer  isi dari hider yaitu menu ,colom pencarian,daftar,login . isi dari bener yaitu adalah kolom satu bener statis,satu bener dinamis isi dari produk adalah gambar dan beserta nama produk dan harga  isi footer adalah berisi menu pembayarannya,media sosial dan juga kontak . buatkan halaman html nya
+
+buatkan html untuk blackend admin page yang digunakan untuk entry nama barang,gambar barang,harga barang,stock barang,deskripsigambar banner,manage user yang juga dapat ban user yang ada di dalam index user,entry pemilihan pembayaran,media sosial,dan juga kontak yang asda pada footer index.buat dalam beberapa file yang sesuai dengan fungsinya.halaman admin page sebagai halaman home dari admin
+
+buatkan toko online menggunkan php dan mysql dengan fitur : 
+1.menampilkan banner statis dan dinamis
+2.menampilkan produk yang terdiri dari(gambar produk,nama prodyuk,harga produk,stock produk dan deskripsi barang) dan tombol add to cart.
+3.fungsi cart untuk menmabhakan produk yang akan di beli ke dalam cart,menambah dan mengurangi jumlah,menghapus barang yang ada di cart,melihat harga,menghitung total belanja,melakukan check out untuk pembayaran,melakukan pembayaran.
+4.fungsi registrasi pelanggan udengan memasukan nama,alamat email,password,confirm password.
+5.fungsi login untuk memasukan email dan password agar pelanggan bisa login sebelum belanja.
+6.fungsi kontak untuk menghubungi toko dengan memasukan kolom nama,email dan pesan yang anada sampaikan.
+7.fungsi about untuk memeberi tahu pelanggan melihat profil dan motto toko kami yang menampilkan deskripisi misi kami,deskripsi visi kami,deskripsi nilai kami serta tambahkan logo untuk untuk setiap poin motto kami.
+8.page shop yang menampilkan produk agar pembeli dapat melihat  produk yang akan dibeli
+buatkan PHPnya saja tanpa mengunkan HTML dan CSS buatkan file yang sesuai dengan fungsinya masing masing
+buatkan databasenya
+buatkan dummy data untuk produk sebanyak 20 data dalam bentu sql agar bisa saya import
+password nya jangan di md5
+buatkan dummy data untuk users sebanyak 20 data dalam bentu sql agar bisa saya import
+tampilkan isi tabel produk menggunakan product.php
+tambahkan html dan css menggunkan boostrap(paste produk)
